@@ -25,3 +25,16 @@ uvicorn app.main:app --reload
 ### Frontend
 npm install
 npm run dev
+## Application Screenshots
+
+| Home Page | Login Page |
+|-----------|------------|
+| ![](screenshots/Home.png) | ![](screenshots/login.png) |
+
+| Register Page | Salon List |
+|--------------|------------|
+| ![](screenshots/Register.png) | ![](screenshots/salon_list.png) |
+
+| Owner Dashboard | Barber Management |
+|----------------|-------------------|
+| ![](screenshots/Owner_Dashboard.png) | ![](screenshots/Barber_Management.png) |
